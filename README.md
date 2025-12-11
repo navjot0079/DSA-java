@@ -13,7 +13,7 @@ This repository includes:
 - 🧰 Reusable utility functions and common templates.
 
 ###
-**💻 Technologies Used
+💻 Technologies Used
 **Language: Java (primary)
 **IDE: VS Code / IntelliJ IDEA
 **Version Control: Git & GitHub
@@ -26,16 +26,16 @@ This repository includes:
 - Contribute to open-source DSA discussions 🧑‍💻
 
 ###
-**🧩 Topics Covered
-**✅ Arrays & Strings
-**✅ Recursion & Backtracking
-**✅ Linked List
-**✅ Stack & Queue
-**✅ Trees & Binary Search Trees
-**✅ Graphs & Traversal Algorithms
-**✅ Sorting & Searching
-**✅ Dynamic Programming
-**✅ Bit Manipulation
+🧩 Topics Covered
+- ✅ Arrays & Strings
+- ✅ Recursion & Backtracking
+- ✅ Linked List
+- ✅ Stack & Queue
+- ✅ Trees & Binary Search Trees
+- ✅ Graphs & Traversal Algorithms
+- ✅ Sorting & Searching
+- ✅ Dynamic Programming
+- ✅ Bit Manipulation
 
 ###
 📈 Progress Tracker
