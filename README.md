@@ -6,7 +6,7 @@
 
 ###
 🚀 About This Repository
-This repository includes:
+**This repository includes:
 - 📘 Solved problems from platforms like LeetCode, HackerRank, and GeeksForGeeks.
 - 🧩 Core DSA topics like arrays, strings, recursion, linked lists, stacks, queues, trees, graphs, dynamic programming, and more.
 - 💡 Optimized solutions with explanations and comments for better understanding.
