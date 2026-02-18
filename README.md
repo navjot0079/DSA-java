@@ -37,13 +37,6 @@
 - ✅ Bit Manipulation
 
 ###
-📈 Progress Tracker
-- Week	Topics Covered	Problems Solved
-- 1	Arrays, Strings	20
-- 2	Recursion, Backtracking	15
-- 3	Linked List, Stack	18
-- 4	Trees, Graphs	25
-###
 🤝 Contributing
 - This is a personal project, but you’re welcome to:
 - Suggest better solutions ✨
