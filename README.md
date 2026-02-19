@@ -13,9 +13,9 @@
 
 ###
 💻 Technologies Used
-**Language: Java (primary)
-**IDE: VS Code / IntelliJ IDEA
-**Version Control: Git & GitHub
+- **Language: Java (primary)
+- **IDE: VS Code / IntelliJ IDEA
+- **Version Control: Git & GitHub
 
 ###
 🎯 Goals
@@ -45,7 +45,7 @@
 
 🧠 Motivation
 “The more you sweat in practice, the less you bleed in battle.”
-— Unknown
+— Norman
 
 ⭐ Support
 
